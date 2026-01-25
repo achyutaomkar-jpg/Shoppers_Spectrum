@@ -7,10 +7,6 @@ The project demonstrates how raw e-commerce transaction data can be transformed 
 
 ---
 
-## 🚀 Live Demo
-👉 *Streamlit App URL will be added after deployment*
-
----
 
 ## 🧠 Project Highlights
 - Customer segmentation into **High-Value, Regular, Occasional, and At-Risk** customers  
