@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+mlruns/
+.mlflow/
+venv/
+.streamlit/
+
+
+# Ignore large data files
+data/*.csv
+
+# Ignore trained models & matrices
+models/*.pkl
