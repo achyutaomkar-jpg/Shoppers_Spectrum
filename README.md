@@ -65,7 +65,10 @@ The project demonstrates how raw e-commerce transaction data can be transformed 
 
 To fully understand and reproduce the project workflow, follow this order:
 
-1️⃣ **Run `data_evaluation.ipynb`**  
+Open the notebooks folder to acess the project codes present in three notebooks
+(1. data_evaluation.ipynb, 2. customer_segmentation.ipynb, 3. product_recommendation.ipynb)
+
+1️⃣ **Run `data_evaluation.ipynb`** 
 - Data exploration  
 - Data cleaning  
 - Feature engineering  
